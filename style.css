@@ -1,0 +1,21 @@
+/*
+ *Name: Nicholas Edwards
+ *UnityID: nredward
+ *Date: 09/23/22
+ *Assignment: Intro to XHTML and Styling
+ *Description: Independent Assignment 4, personal webpage
+ */
+ 
+background {
+    background-color: #0000FF;
+}
+
+.t_border {
+    border: 2px solid #000000;
+}
+
+#photo_mod {
+    max-width: 250px;
+    max-height: 300px;
+    border: 2px solid #00FF00;
+}
